@@ -14,7 +14,7 @@
 ## About
 **NextiaJD**, from <a href="https://nahuatl.uoregon.edu/content/nextia" target="_blank">*nextia*</a> in the <a href="https://en.wikipedia.org/wiki/Nahuatl" target="_blank">Nahuatl</a> language (the old Aztec language), is a scalable data discovery system. **NextiaJD** computes profiles, which are succint representations of the underlying characteristics of datasets and their attributes, to efficiently discover joinable attributes on datasets. We aim to automatically discover pairs of attributes in a massive collection of heterogeneous datasets (i.e., data lakes) that can be crossed.
 
-Here, we provide you detailed information on how to run and evaluate NextiaJD. To learn more about the project, visit our [website](https://www.essi.upc.edu/dtim/nextiajd/).
+Here, we provide you detailed information on how to run and evaluate NextiaJD. To learn more about the project, visit our website.
 
 ## Key features   
 * Attribute profiling built-in Spark  
